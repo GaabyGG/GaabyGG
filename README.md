@@ -25,3 +25,5 @@ Actualmente busco una empresa donde poder hacer prácticas y seguir mejorando.
       <img src="./resources/apache-netbeans.svg" width="50"/>
       <img src="./resources/android-studio.svg" width="50"/>
    </p>
+
+   <!-- https://www.svgrepo.com/ -->
