@@ -1,4 +1,4 @@
-### Welcome! 👋
+### Hola! 👋
 
 Soy Gabriel García y estudio FPGS Desarrollo de Aplicaciones Multiplataforma.
 
