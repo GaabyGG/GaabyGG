@@ -10,21 +10,18 @@ Actualmente busco una empresa donde poder hacer prácticas y seguir mejorando
 ## Lenguajes
 
    <p align="center">
-      <img src="./resources/java.svg" style="width=450"/>
-      <img src="./resources/kotlin.svg" style="width=450"/>
-      <img src="./resources/python.svg" style="width=450"/>
-      <img src="./resources/sql.svg" style="width=450"/>
-      <img src="./resources/html.svg" style="width=450"/>
-      <img src="./resources/css.svg" style="width=450"/>
-      
-      
+      <img src="./resources/java.svg" width="50"/>
+      <img src="./resources/kotlin.svg" width="50"/>
+      <img src="./resources/python.svg" width="50"/>
+      <img src="./resources/sql.svg" width="50"/>
+      <img src="./resources/html.svg" width="50"/>
+      <img src="./resources/css3.svg" width="50"/>
    </p>  
    
 ## Herramientas
 
    <p align="center">
-      <img src="./resources/vscode.svg" />
-      <img src="./resources/apache-netbeans.svg" />
-      <img src="./resources/android-studio.svg" />
-      
+      <img src="./resources/vscode.svg" width="50"/>
+      <img src="./resources/apache-netbeans.svg" width="50"/>
+      <img src="./resources/android-studio.svg" width="50"/>
    </p>
