@@ -32,9 +32,10 @@ Me gusta aprender cosas nuevas, utilidades, programas, herramientas, etc. No me 
 ## Tools
 
    <p align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" />
+      <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019" />
+      <img src="https://icons8.com/icon/4djt356tq8UO/apache-netbeans" />
+      <img src="https://icons8.com/icon/04OFrkjznvcd/android-studio" />
+      
    </p>
    
 ## Stats   
